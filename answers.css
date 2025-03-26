@@ -1,0 +1,26 @@
+body{
+    background-image: url(imgg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    font-family: verdana;
+
+}
+
+h1{
+    border-style: double;
+    border-width: 8px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.intro{
+    margin : 25px 100px;
+    padding: 30px;
+}
+
+#linkk{
+    color:chartreuse;
+    font-size: 30px;
+}
